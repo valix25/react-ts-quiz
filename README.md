@@ -1,3 +1,10 @@
+# Description
+
+Small quiz app with react / typescript from [youtube](https://www.youtube.com/watch?v=F2JCjVSZlG0&ab_channel=freeCodeCamp.org) in order to learn more about these technologies.
+
+The final app is freely hosted and can be checked here: https://react-ts-quiz-valv.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
